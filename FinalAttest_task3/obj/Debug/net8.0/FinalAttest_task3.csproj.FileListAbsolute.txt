@@ -1,0 +1,14 @@
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.AssemblyInfoInputs.cache
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.AssemblyInfo.cs
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.csproj.CoreCompileInputs.cache
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/bin/Debug/net8.0/FinalAttest_task3
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/bin/Debug/net8.0/FinalAttest_task3.deps.json
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/bin/Debug/net8.0/FinalAttest_task3.runtimeconfig.json
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/bin/Debug/net8.0/FinalAttest_task3.dll
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/bin/Debug/net8.0/FinalAttest_task3.pdb
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.dll
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/refint/FinalAttest_task3.dll
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.pdb
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/FinalAttest_task3.genruntimeconfig.cache
+/Users/yuri/Desktop/CSHARP/FinalAttest_task3/obj/Debug/net8.0/ref/FinalAttest_task3.dll
